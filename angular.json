@@ -41,6 +41,10 @@
           "configurations": {
             "production": {
               "baseHref": "/plantilles-jordimas/",
+              "outputPath": {
+                "base": "docs",
+                "browser": ""
+              },
               "budgets": [
                 {
                   "type": "initial",
